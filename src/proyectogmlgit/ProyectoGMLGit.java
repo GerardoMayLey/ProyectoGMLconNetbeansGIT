@@ -20,6 +20,8 @@ int y=3;
 
 int resultado=x+y;
 
+        System.out.println(resultado);
+
 
     }
     
